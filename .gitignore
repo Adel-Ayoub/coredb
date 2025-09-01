@@ -1,0 +1,29 @@
+# Database files
+*.db
+
+# Compiled object files
+*.o
+*.obj
+*.tmp
+
+# Executables
+coredb
+test_coredb
+
+# Build directories
+obj/
+build/
+bin/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Test files
+lol.c
